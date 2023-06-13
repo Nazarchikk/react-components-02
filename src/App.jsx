@@ -1,5 +1,4 @@
 import React from "react";
-import ReactDOM from "react-dom";
 import Profile from "./constructor/fun";
 import user from "../src/user.json";
 
@@ -11,6 +10,7 @@ function Users (){
                 tag={user.tag}
                 location={user.location}
                 avatar={user.avatar}
+                instagram={user.instagram}
                 stats={user.stats}
                 />
         </>
