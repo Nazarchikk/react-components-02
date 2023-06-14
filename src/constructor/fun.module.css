@@ -22,9 +22,6 @@ body{
 .name{
     font-weight: bold;
 }
-.teg{
-    text-decoration: none;
-}
 .tag{
     color: gray;
     margin-top: -5px;

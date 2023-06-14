@@ -12,7 +12,7 @@ export default function Profile({username,tag,location,avatar,stats,instagram}) 
                 className={styleCss.avatar} 
                 />
                 <p className={styleCss.name}>{username}</p>
-                <a className={styleCss.teg} href={instagram}><p className={styleCss.tag}>@{tag}</p></a>
+                <p className={styleCss.tag}>@{tag}</p>
                 <p className={styleCss.location}>{location}</p>
             </div>
 
