@@ -10,7 +10,6 @@ function Users (){
                 tag={user.tag}
                 location={user.location}
                 avatar={user.avatar}
-                instagram={user.instagram}
                 stats={user.stats}
                 />
         </>
