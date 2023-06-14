@@ -1,8 +1,8 @@
 {
-  "name": "react-components-01",
+  "name": "react-components-02",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Nazarchikk.github.io/react-components-01",
+  "homepage": "https://Nazarchikk.github.io/react-components-02",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
