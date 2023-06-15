@@ -1,5 +1,5 @@
-import styleCss from "./fun.module.css";
 import PropTypes from "prop-types";
+import styleCss from "./fun.module.css";
 
 
 export default function Profile({username,tag,location,avatar,stats,instagram}) {
